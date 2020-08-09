@@ -1,0 +1,5 @@
+com\example\accessingdataneo4j\Entities\Person.class
+com\example\accessingdataneo4j\Controllers\PersonController.class
+com\example\accessingdataneo4j\repositories\SimpleProducer.class
+com\example\accessingdataneo4j\repositories\PersonRepository.class
+com\example\accessingdataneo4j\AccessingDataNeo4jApplication.class
